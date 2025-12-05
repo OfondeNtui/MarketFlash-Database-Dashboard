@@ -41,6 +41,7 @@ The following SQL query validates that:
 
 . Foreign key relationships return accurate joined records
 
+
 SELECT
     c.Campaign_Name,   
     cl.Company_Name,   
@@ -53,7 +54,6 @@ JOIN
     Platforms p ON c.Platform_ID = p.Platform_ID 
 ORDER BY
     cl.Company_Name,   
-    c.Campaign_Name;
-
+    c.Campaign_Name;   
 
 
