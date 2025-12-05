@@ -51,7 +51,7 @@ The following SQL query validates that:
 
 
 ## Results & Key Findings
-## Recommendations 
-## Conclusions
+### Recommendations 
+### Conclusions
 
 
