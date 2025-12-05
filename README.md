@@ -16,8 +16,17 @@ By modernizing data management and visualization, the project enables MarketFlas
 Marketing data: The primary dataset used for this analysis is the "sales_data.csv" file, containing detailed information about each sale made by the company.
 
 ## Tools
- 1. Excel - Data Cleaning
+1. Excel - Data Cleaning
  
- 2. Beekeeper - For Database code
+2. Beekeeper - For Database code
  
- 3. Tableau - Creating dashbaord
+3. Tableau - Creating dashbaord
+
+## Data Cleaning/Preparation
+In the initial data preparation phase, we performed the following tasks:
+
+1. Data loading and inspection.
+ 
+2. Handling missing values.
+   
+3. Data cleaning and formatting.
