@@ -50,3 +50,8 @@ The following SQL query validates that:
 <img width="1426" height="732" alt="Screenshot 2025-12-05 at 20 01 51" src="https://github.com/user-attachments/assets/8a5f32c2-240b-4af7-99ec-7375fe1052f0" />
 
 
+## Results & Key Findings
+## Recommendations 
+## Conclusions
+
+
