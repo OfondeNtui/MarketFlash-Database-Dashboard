@@ -30,3 +30,30 @@ In the initial data preparation phase, we performed the following tasks:
 2. Handling missing values.
    
 3. Data cleaning and formatting.
+
+## 🧪 Database Validation: Join Integrity Test
+To ensure that the relational database was structured correctly and that key relationships worked as expected, a join test was performed across the Campaigns, Clients, and Platforms tables.
+The following SQL query validates that:
+
+. Each campaign is linked to the correct client
+
+. Each campaign is associated with the correct platform
+
+. Foreign key relationships return accurate joined records
+
+SELECT
+    c.Campaign_Name,   
+    cl.Company_Name,   
+    p.Platform_Name    
+FROM
+    Campaigns c       
+JOIN
+    Clients cl ON c.Client_ID = cl.Client_ID 
+JOIN
+    Platforms p ON c.Platform_ID = p.Platform_ID 
+ORDER BY
+    cl.Company_Name,   
+    c.Campaign_Name;
+
+
+
