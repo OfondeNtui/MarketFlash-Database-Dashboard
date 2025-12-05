@@ -41,19 +41,8 @@ The following SQL query validates that:
 
 . Foreign key relationships return accurate joined records
 
+## Dashboard Overview
 
-SELECT
-    c.Campaign_Name,   
-    cl.Company_Name,   
-    p.Platform_Name    
-FROM
-    Campaigns c       
-JOIN
-    Clients cl ON c.Client_ID = cl.Client_ID 
-JOIN
-    Platforms p ON c.Platform_ID = p.Platform_ID 
-ORDER BY
-    cl.Company_Name,   
-    c.Campaign_Name;   
+<img width="1426" height="732" alt="Screenshot 2025-12-05 at 20 01 51" src="https://github.com/user-attachments/assets/8a5f32c2-240b-4af7-99ec-7375fe1052f0" />
 
 
