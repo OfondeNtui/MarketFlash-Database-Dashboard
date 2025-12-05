@@ -17,5 +17,7 @@ Marketing data: The primary dataset used for this analysis is the "sales_data.cs
 
 ## Tools
  1.Excel - Data Cleaning
+ 
  2.Beekeeper - For Database code
+ 
  3.Tableau - Creating dashbaord
