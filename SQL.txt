@@ -1,0 +1,27 @@
+-- Create the database
+CREATE DATABASE MarketFlashDB;
+USE MarketFlashDB;
+
+-- Create Client table
+CREATE TABLE Client (
+    ClientId VARCHAR(20) PRIMARY KEY,
+    ClientName VARCHAR(200) NOT NULL,
+    ClientAddress VARCHAR(200) NOT NULL,
+    Email VARCHAR(20) UNIQUE NOT NULL,
+    Phone VARCHAR(20) NOT NULL,
+    ContactPerson VARCHAR(20) NOT NULL
+);
+
+-- Create Channels table
+CREATE TABLE Channels (
+    ChannelId VARCHAR(20) PRIMARY KEY,
+    ChannelName VARCHAR(20),
+    ChannelDescription VARCHAR(20)
+);
+
+-- Create Locations table
+CREATE TABLE Locations (
+    LocationId VARCHAR(20) PRIMARY KEY,
+    LocationName VARCHAR(20) NOT NULL,
+    LocationDescription VARCHAR(20)
+);
