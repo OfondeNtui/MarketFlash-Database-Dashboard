@@ -55,15 +55,15 @@ Analyzed campaign performance across 12 marketing channels, revealing total outc
 Built an interactive Tableau dashboard enabling quick comparisons across channels, executives, locations, and clients.
 
 ### Recommendations 
-. TikTok, Facebook, and YouTube deliver the highest conversions, while Email shows the weakest acquisition performance.
+- TikTok, Facebook, and YouTube deliver the highest conversions, while Email shows the weakest acquisition performance.
 
-. Budget efficiency is low—the expense vs. conversion analysis shows a weak correlation, indicating overspending on low-performing campaigns.
+- Budget efficiency is low—the expense vs. conversion analysis shows a weak correlation, indicating overspending on low-performing campaigns.
 
-. Canada, Australia, and Western U.S. regions achieve the strongest conversion rates, highlighting clear geographic opportunities.
+- Canada, Australia, and Western U.S. regions achieve the strongest conversion rates, highlighting clear geographic opportunities.
 
-. Executive performance varies significantly, signaling the need for standardized best practices and targeted support.
+- Executive performance varies significantly, signaling the need for standardized best practices and targeted support.
 
-. Top clients (e.g., White Ltd, Lopez PLC) show strong engagement, while several smaller clients present retention risks.
+- Top clients (e.g., White Ltd, Lopez PLC) show strong engagement, while several smaller clients present retention risks.
 
 ### Conclusions
 The MarketFlash analysis demonstrates strong overall engagement but highlights clear optimization opportunities. The company can significantly improve campaign ROI by reallocating budget to high-performing channels, focusing on top-converting regions, and strengthening consistency across executive teams. This dashboard provides a scalable, data-driven foundation for more informed marketing decisions and future performance growth.
